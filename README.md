@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sergio montero carmona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio montero carmona" height="30" width="40" /></a>
-<a href="https://fb.com/sergio montero carmona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sergio montero carmona" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@sergiomonty11/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sergiomonty11/videos" height="30" width="40" /></a>
-<a href="https://discord.gg/sergiomonty1#0099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sergiomonty1#0099" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sergiomonterocarmona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergiomonterocarmona" height="30" width="40" /></a>
+<a href="https://fb.com/sergiomonterocarmona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sergiomonterocarmona" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sergiomonty11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sergiomonty11" height="30" width="40" /></a>
+<a href="https://discord.gg/#0099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0099" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
