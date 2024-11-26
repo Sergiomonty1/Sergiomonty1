@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Montero Carmona</h1>
 <h3 align="center">A passionate and junior Unity Developer</h3>
 
-- 🔭 I’m currently working on **Cero Try Games**
+- 🔭 I’m currently working on **MakTub Games**
 
 - 🌱 I’m currently learning **Courses in Udemy (Unreal, multiplayer, VR, AR...)**
 
